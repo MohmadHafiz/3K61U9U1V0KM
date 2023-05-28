@@ -55,3 +55,19 @@
   border-radius: 50%;
 }
 
+#enroll-form {
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+#enroll-form::-webkit-scrollbar {
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+}
+
+#enroll-form::-webkit-scrollbar {
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+}
+
